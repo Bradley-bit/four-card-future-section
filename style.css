@@ -16,8 +16,26 @@
     height: 250px;
     margin: 0 auto;
     margin-top: 30px;
-    background-color: antiquewhite;
     padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 9px 5px 9px rgba(0,0,0,0.09);
+
+}
+
+.cyan-card {
+    border-top: 5px solid hsl(180, 62%, 55%);
+}
+
+.red-card {
+    border-top: 5px solid hsl(0, 78%, 62%);
+}
+
+.orange-card {
+    border-top: 5px solid hsl(34, 97%, 64%);
+}
+
+.blue-card {
+    border-top: 5px solid hsl(212, 86%, 64%);
 }
 
 .card img {
