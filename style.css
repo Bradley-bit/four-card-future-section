@@ -48,3 +48,34 @@ body {
     margin-left: 70%;
     margin-top: 30%;
 }
+
+@media (width > 1800px) {
+    .container {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    /* padding: 30px; */
+}
+.flex-container {
+    height: 500px;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 90px;
+}
+.cyan-card {
+    align-self: end;
+}
+.orange-card {
+    align-self: end;
+    margin-bottom: -170px;
+    margin-left: -470px;
+}
+.red-card {
+    
+}
+.blue-card {
+    align-self: end;
+}
+}
