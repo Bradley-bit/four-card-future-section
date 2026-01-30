@@ -41,10 +41,10 @@ For this project I learnt how to use media queries. I learnt what  mobile for ap
 
 ### Useful resources
 
-- [Example resource 1](https://cssgenerator.org/box-shadow-css-generator.html) - This helped me generate box-shadows.
-- [Example resource 2](https://fonts.google.com/selection) - This website helped me add a custom font to the project.
-- [Example resource 2](https://www.w3schools.com/css/css_rwd_mediaqueries.aspn) - This is an amazing website which helped me understand media queries.
-- [Example resource 2](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries/Using) - This is an amazing website which helped me finally understand media queries.
+- [Resource 1](https://cssgenerator.org/box-shadow-css-generator.html) - This helped me generate box-shadows.
+- [Resource 2](https://fonts.google.com/selection) - This website helped me add a custom font to the project.
+- [Resource 2](https://www.w3schools.com/css/css_rwd_mediaqueries.aspn) - This is an amazing website which helped me understand media queries.
+- [Resource 2](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries/Using) - This is an amazing website which helped me finally understand media queries.
 
 
 
