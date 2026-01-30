@@ -9,6 +9,13 @@ body {
     font-family: Poppins;
 }
 
+.para,
+span {
+    margin: 20px 0;
+    color: hsl(212, 6%, 44%);
+    font-weight: 400;
+}
+
 .container {
     width: 600px;
     margin: 0 auto;
