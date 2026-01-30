@@ -52,8 +52,8 @@ span {
 
 .card img {
     width: 15%;
-    margin-left: 70%;
-    margin-top: 30%;
+    margin-left: 80%;
+    margin-top: 10%;
 }
 
 @media (width > 1800px) {
